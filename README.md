@@ -6,7 +6,7 @@
 
 **沉浸式视觉体系 + 短剧内容聚合的电视端播放器**
 
-[![Version](https://img.shields.io/badge/version-1.0-red.svg?style=flat-square)](https://github.com/xiongking/hongpingguoTV)
+[![Version](https://img.shields.io/badge/version-1.1-red.svg?style=flat-square)](https://github.com/xiongking/hongpingguoTV)
 [![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Google%20TV-blue.svg?style=flat-square)](https://android.com)
 [![API](https://img.shields.io/badge/API-21%2B%20(Android%205.0%2B)-green.svg?style=flat-square)](https://android.com)
 [![Media3](https://img.shields.io/badge/Media3-ExoPlayer%201.3.0-orange.svg?style=flat-square)](https://developer.android.com/media/media3)
